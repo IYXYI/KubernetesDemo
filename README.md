@@ -4,6 +4,7 @@
 Automate the deployment of a Kubernetes cluster on Azure (AKS) and run a sample Guestbook app inside it, using Terraform and GitHub Actions.
 
 📂 Project Structure
+
 .
 ├─ infra/
 │  └─ terraform/       # Terraform files to create AKS cluster
